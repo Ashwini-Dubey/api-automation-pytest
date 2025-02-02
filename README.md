@@ -20,17 +20,6 @@ This repository contains a pytest-based automation framework for API testing. Th
 * pytest-xdist (for parallel execution)
 * allure-pytest (for reporting)
 
-
-### **Install the required packages:**
-`pip install -r requirements.txt`
-
-
-### **Configuration**
-
-* **pytest.ini:** Configuration settings for pytest. Customize settings such as markers, log level, and plugins.
-* **config.py:** Contains environment-specific settings and API endpoints.
-
-
 ### **Usage**
 
 * #### **Running Tests**
